@@ -4,6 +4,7 @@ This code is associated with the paper **"Open Benchmark Dataset for AI-Based Qu
 
 ## Setup
 Install the following packages: `torch torchvision kornia opencv-python matplotlib PyYAML scikit-learn Pillow`
+
 Alternatively, create a virtual environments and install the packages of `requirements.txt` using the following command:
 ```bash
 pip3 install -r requirements.txt
