@@ -18,7 +18,7 @@ python3 src/main.py
 ```
 
 ## Model weights 
-pretrained U-Net model weight: [Google Drive](https://drive.google.com/file/d/1cRIhSaQlnTIXvYYlpFRWrVxf1Q_N4mgg/view?usp=sharing)
+pretrained U-Net model weight: [Google Drive](https://drive.google.com/drive/folders/1hGF6QmIDA2xN_feCh0oGLuH8MkHLTPr2?usp=drive_link)
 
 ## Declaration
 This source code provides only some core functionalities. For more details, please contact `ljw@fzu.edu.cn` or `231027062@fzu.edu.cn`.
